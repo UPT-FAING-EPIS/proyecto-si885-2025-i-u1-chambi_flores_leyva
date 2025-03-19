@@ -4,5 +4,8 @@
 Integrantes:
 
 Chambi Cori Jerson Roni 			(2021072619)
+
 Flores Quispe Jaime Elias			(2021070309)
+
 Leyva Sardón Elvis Ronald			(2021072614)
+
