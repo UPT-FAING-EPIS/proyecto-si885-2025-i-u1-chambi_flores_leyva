@@ -323,75 +323,11 @@ Estas medidas garantizarán la aceptación y adopción del sistema, beneficiando
 
 *5.1.1 Beneficios* del Proyecto
 
-El proyecto de implementación de un sistema web de gestión de pedidos en la Imprenta América ofrece una serie de beneficios tangibles e intangibles que impactarán directamente en la eficiencia operativa, la reducción de costos y la mejora en la atención al cliente.
-
-**Beneficios Tangibles:**
-
-1. Reducción de tiempos de atención a clientes: Se estima una disminución del 20% en el tiempo dedicado a la gestión manual de pedidos.
-1. Optimización del trabajo del diseñador: Aumento de productividad del 30% al reducir interrupciones y permitir una mejor concentración en sus tareas principales.
-1. Reducción de personal necesario para la gestión administrativa: Disminución del 10% en la necesidad de contratar personal administrativo adicional en el futuro.
-1. Mejora en el seguimiento de pedidos: Reducción del 15% en errores relacionados con la gestión de pedidos.
-
-**Beneficios Intangibles:**
-
-1. Mejora en la satisfacción del cliente: Los clientes podrán registrar sus pedidos de manera autónoma, lo que aumentará su satisfacción y fidelidad.
-1. Mayor confiabilidad en la información: La implementación del sistema permitirá una mejor organización y registro de los pedidos, facilitando la toma de decisiones basada en datos confiables.
-1. Mayor competitividad: La digitalización del proceso de pedidos mejorará la competitividad de la imprenta, atrayendo a más clientes que buscan soluciones modernas y eficientes.
-
 5\.1.2 Criterios de Inversión
-
-
 
 *5.1.2.1 Relación Beneficio/Costo (B/C)*
 
-|Inversión|14500|Tasa Descuento|9%|
-| :- | :- | :- | :- |
-
-|Periodo|Ingreso|Egreso|flujo efectivo|
-| :- | :- | :- | :- |
-|0|||-14500|
-|1|15290|4200|11090|
-|2|15290|4200|11090|
-|3|15290|4200|11090|
-
-|B/C|
-| :-: |
-|s/. 1.94|
-
-Se obtiene S/. 0.94 de utilidad neta por cada sol de egreso operativo
-
-
-`                    `*5.1.2.2 Valor Actual Neto (VAN)*
-
-|Periodo|Ingreso|Egreso|flujo efectivo|
-| :- | :- | :- | :- |
-|0|||-14500|
-|1|15290|4200|11090|
-|2|15290|4200|11090|
-|3|15290|4200|11090|
-
-|VAN|
-| :-: |
-|s/. 28,072.06|
-
-**VAN (Valor Actual Neto = s/. 28,072.06):** Esto indica que el valor presente de los flujos de efectivo esperados es S/. 28,072.06. El VAN positivo sugiere que el proyecto genera más valor que el costo de la inversión inicial, lo que lo hace financieramente viable
-
-
 *5.1.2.3 Tasa Interna de Retorno (TIR)*
-
-|Periodo|Ingreso|Egreso|flujo efectivo|
-| :- | :- | :- | :- |
-|0|||-14500|
-|1|15290|4200|11090|
-|2|15290|4200|11090|
-|3|15290|4200|11090|
-
-|TIR|
-| :-: |
-|57%|
-
-**TIR (Tasa Interna de Retorno = 57%):** La TIR es mucho mayor que la tasa de descuento (9%). Esto significa que el retorno esperado del proyecto es significativamente superior al costo del capital, lo que lo hace muy atractivo.
-
 
 
 
