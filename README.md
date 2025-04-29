@@ -13,12 +13,12 @@ Leyva Sardón Elvis Ronald			(2021072614)
 
 
 Objetivo
-Diseñar e implementar una aplicación web que facilite el monitoreo y análisis de la actividad en repositorios académicos de GitHub, permitiendo evaluar la calidad del desarrollo y promoviendo buenas prácticas en la gestión de versiones.
+Diseñar e implementar un dashboard que facilite el monitoreo y análisis de la actividad en repositorios académicos de GitHub, permitiendo evaluar la calidad del desarrollo y promoviendo buenas prácticas en la gestión de versiones.
 ¿Como se va a medir la calidad? Hay una Formula?
 ¿Como se mide las buenas practicas de gestion de versiones?
 
 Objetivos Específicos
-●	Desarrollar un sistema que recopile y analice datos sobre commits, ramas, issues y pull requests en repositorios académicos. 
+●	Desarrollar un dashboard que recopile datos sobre commits, ramas, issues y pull requests en repositorios académicos. 
 Solo por repositorios o tambien por estudiante?
 
 ●	Generar informes y métricas sobre la frecuencia de contribuciones, uso de tecnologías y documentación en los proyectos. 
